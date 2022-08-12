@@ -32,7 +32,7 @@ const portfolio = [
     img: "/images/portfolio-08.png",
     category: "Web App",
     keyword: ["Web", "Web App", "UI-UX"],
-    liveUrl: "https://github.com/itsmerobert12/loancalculator-netlify",
+    liveUrl: "https://loan-calculator12.netlify.app/",
   },
 
   {
@@ -41,7 +41,7 @@ const portfolio = [
     img: "/images/portfolio-09.png",
     category: "Web App",
     keyword: ["Web", "Web App", "UI-UX"],
-    liveUrl: "https://github.com/itsmerobert12/vue-todo-app",
+    liveUrl: "https://taskappvue.netlify.app/",
   },
 ];
 
