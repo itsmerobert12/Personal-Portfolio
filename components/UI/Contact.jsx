@@ -27,7 +27,7 @@ const Contact = () => {
                 <span>
                   <i className="ri-mail-line"></i>
                 </span>
-                <p>robthedev12@gmail.com</p>
+                <a href="mailto:robthedev12@gmail.com">Send Email</a>
               </li>
               <li className={`${classes.info__item}`}>
                 <span>

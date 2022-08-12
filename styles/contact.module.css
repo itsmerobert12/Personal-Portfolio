@@ -20,6 +20,10 @@
   margin-bottom: 0;
 }
 
+.a {
+  color:#17f61b
+}
+
 .info__item span i {
   color: #17f61b;
   font-size: 1.2rem;

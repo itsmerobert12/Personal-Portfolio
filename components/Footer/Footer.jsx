@@ -48,7 +48,7 @@ const Footer = () => {
 
           <Col lg="6" className={`${classes.footer__top}`}>
             <div className={`${classes.footer__creator}`}>
-              <h6>Created by Roberto G</h6>
+              <h6>Coded by Roberto G</h6>
             </div>
           </Col>
 
