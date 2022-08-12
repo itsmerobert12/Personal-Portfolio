@@ -13,7 +13,7 @@ const Contact = () => {
             <SectionSubtitle subtitle="Contact me" />
             <h3 className="mt-4 mb-4">Let&apos;s Chat!</h3>
             <p>
-              I am always online and ready to help you with any questions you may have or if you just want to just chat, contact me!
+              I am always online and ready to help you with any questions you may have or if you just want to chat, contact me!
             </p>
 
             <ul className={`${classes.contact__info__list}`}>
